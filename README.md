@@ -14,7 +14,7 @@ public class SwitchCase {
 		
 		int diaSemana = scan.nextInt();
 		
-		/*if (diaSemana == 1){
+		if (diaSemana == 1){
 		System.out.println("Domingo");
 	} else if (diaSemana == 2){
 		System.out.println("Segunda");
@@ -42,7 +42,7 @@ public class SwitchCase {
 	case 6: System.out.println("Sexta"); break;
 	case 7: System.out.println("Sábado"); break;
 	default: System.out.println("Não é um dia da semana válido");
-	}*/
+	}
 	
 	switch(diaSemana){
 	case 2: 
